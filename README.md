@@ -1,6 +1,21 @@
-# demo
+# AIE Technologies - Demo app
 
-A new Flutter project.
+- Developed an Demo app for AIE Technologies
+
+## Tech Stack
+
+- Flutter
+- Dart
+- Android Studio
+- Data Structures
+
+## wanna contact with me?
+
+- facebook: https://www.facebook.com/dipmay.biswas.1
+- Instagram: https://www.instagram.com/dipmay_biswas/
+- Twitter: https://twitter.com/dipmay_biswas
+- LinkedIn: https://www.linkedin.com/in/dipmay-biswas-72a374227/
+
 
 ## Getting Started
 
